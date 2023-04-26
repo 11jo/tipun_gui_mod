@@ -1,0 +1,60 @@
+zZportraitsLbl =
+{
+	['MAN1'] = "Clerc Rothgar",
+	['MAN2'] = 'Guerrier Abdel',
+	['WOMAN1'] = 'Magicienne Adelia',
+	['WOMAN2'] = 'Paladine Meryll',
+	['GENDWRF'] = 'Nain',
+	['GENMELF'] = 'Elfe',
+	['GENMHLF'] = 'Demi-elfe',
+	['NHORC'] = 'Demi-orque',
+	['BDSHAM1'] = 'Shaman',
+	['BDORCM1'] = 'Demi-orque',
+	['BDSHAF1'] = 'Shaman',
+	['BDORCF1'] = 'Demi-orque Tarana',
+	['YANNER1'] = 'Moniale de Kiran Janner',
+	['YANNER2'] = 'Sorcière de Kieran Janner',
+	['YANNER3'] = 'Voleuse de Kieran Janner',
+	['YANNER4'] = 'Nain par Kieran Janner',
+	['YANNER5'] = 'Moine par Kieran Janner',
+	['YANNER6'] = 'Sorcier par Kieran Janner',
+	['HELM'] = 'Prêtre',
+	['HVLN'] = 'Prêtre',
+	['MANLEY0'] = 'Nain par Jason Manley',
+	['MANLEY3'] = 'Paladin par Jason Manley',
+	['MANLEY6'] = 'Nain par Jason Manley',
+	['MANLEY7'] = 'Voleur par Jason Manley',
+	['MANLEY8'] = 'Barbare par Jason Manley',
+	['MANLEY9'] = 'Moine par Jason Manley',
+	['MANLEY1'] = 'Enchanteresse par Jason Manley',
+	['MANLEY2'] = 'Femme shaman par Jason Manley',
+	['MANLEY4'] = 'Prêtresse par Jason Manley',
+	['MANLEY5'] = 'Sorcière par Jason Manley',
+	['MANLEYX'] = "Voleur de Jason Manley",
+	['BDTMA'] = 'Guerrier nain (Aventuriers de Padhiver)',
+	['BDTMB'] = 'Magicienne (Aventuriers de Padhiver)',
+	['BDTMC'] = 'Archer Elfe (Aventuriers de Padhiver)',
+	['BDTMD'] = 'Mage (Aventuriers de Padhiver)',
+	['BDTME'] = 'Chevalier demi-orque (Aventuriers de Padhiver)',
+	['BDTMF'] = 'Mage (Aventuriers de Padhiver)',
+	['BDTMG'] = 'Barde (Aventuriers de Padhiver)',
+	['BDTMH'] = 'Sorcier (Aventuriers de Padhiver)',
+	['BDTMI'] = 'Éclaireur Elfe (Aventuriers de Padhiver)',
+	['BDTMJ'] = 'Pirate Elfe (Aventuriers de Padhiver)',
+	['BDTMK'] = 'Guerrier (Aventuriers de Padhiver)',	
+}
+
+zZportSortTable = {
+	{1, stringsAll.zZportSortFileAZ, 0},
+	{2, stringsAll.zZportSortFileZA, 1},
+	{3, stringsAll.zZportSortNameAZ, 2},
+	{4, stringsAll.zZportSortNameZA, 3},
+}
+zZportFiltTable = {
+	{1, stringsAll.zZportFiltName, 0},
+	{2, stringsAll.zZportFiltNoName, 1},
+	{3, stringsAll.zZportFiltEdit, 2},
+}
+
+
+

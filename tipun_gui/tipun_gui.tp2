@@ -38,7 +38,7 @@ COPY ~%MOD_FOLDER%/lua/m_zZinvt.lua~ ~override~ EVALUATE_BUFFER
 COPY ~%MOD_FOLDER%/lua/M_zZitmA.lua~ ~override~ EVALUATE_BUFFER
 COPY ~%MOD_FOLDER%/lua/m_zZtabl.lua~ ~override/m_zZatbl.lua~ EVALUATE_BUFFER
 COPY ~%MOD_FOLDER%/lua/m_zZrand.lua~ ~override~ EVALUATE_BUFFER
-COPY ~%MOD_FOLDER%/lua/m_zZport.lua~ ~override~ EVALUATE_BUFFER
+COPY ~%MOD_FOLDER%/lang/%LANGUAGE%/m_zZport.lua~ ~override~ EVALUATE_BUFFER
 COPY ~%MOD_FOLDER%/lua/ui.menu~      ~override~ EVALUATE_BUFFER
 
 

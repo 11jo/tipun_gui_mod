@@ -1,0 +1,60 @@
+zZportraitsLbl =
+{
+	['MAN1'] = 'Male 1',
+	['MAN2'] = 'Male 2',
+	['WOMAN1'] = 'Woman 1',
+	['WOMAN2'] = 'Woman 2',
+	['GENDWRF'] = 'Dwarf',
+	['GENMELF'] = 'Elf',
+	['GENMHLF'] = 'Half Elf',
+	['NHORC'] = 'Half-orc',
+	['BDSHAM1'] = 'Shaman',
+	['BDORCM1'] = 'Half-orc',
+	['BDSHAF1'] = 'Shaman Woman',
+	['BDORCF1'] = 'Half-orc Woman',
+	['YANNER1'] = 'Woman Monk by Kieran Janner',
+	['YANNER2'] = 'Sorceress by Kieran Janner',
+	['YANNER3'] = 'Thief by Kieran Janner',
+	['YANNER4'] = 'Dwarf by Kieran Janner',
+	['YANNER5'] = 'Monk by Kieran Janner',
+	['YANNER6'] = 'Warlock by Kieran Janner',
+	['HELM'] = 'Priest',
+	['HVLN'] = 'Priest',
+	['MANLEY0'] = 'Dwarf by Jason Manley',
+	['MANLEY3'] = 'Paladin by Jason Manley',
+	['MANLEY6'] = 'Dwarf by Jason Menley',
+	['MANLEY7'] = 'Thief by Jason Menley',
+	['MANLEY8'] = 'Barbarian by Jason Manley',
+	['MANLEY9'] = 'Monk by Jason Manley',
+	['MANLEY1'] = 'Enchantress by Jason Manley',
+	['MANLEY2'] = 'Woman Shaman by Jason Manley',
+	['MANLEY4'] = 'Priestess by Jason Manley',
+	['MANLEY5'] = 'Sorceress by Jason Manley',
+	['MANLEYX'] = 'Thief by Jason Manley',
+	['BDTMA'] = 'Warrior Dwarf (Neverwinter Adventurers)',
+	['BDTMB'] = 'Mage Woman (Neverwinter Adventurers)',
+	['BDTMC'] = 'Archer Elf (Neverwinter Adventurers)',
+	['BDTMD'] = 'Male Mage (Neverwinter Adventurers)',
+	['BDTME'] = 'Half-Eagle Dodger (Neverwinter Adventurers)',
+	['BDTMF'] = 'Bardess (Neverwinter Adventurers)',
+	['BDTMG'] = 'Barde (Neverwinter Adventurers)',
+	['BDTMH'] = 'Warlock (Neverwinter Adventurers)',
+	['BDTMI'] = 'Pathfinder Elf (Neverwinter Adventurers)',
+	['BDTMJ'] = 'Pirate Elf (Neverwinter Adventurers)',
+	['BDTMK'] = 'Fighter (Neverwinter Adventurers)',
+}
+
+zZportSortTable = {
+	{1, stringsAll.zZportSortFileAZ, 0},
+	{2, stringsAll.zZportSortFileZA, 1},
+	{3, stringsAll.zZportSortNameAZ, 2},
+	{4, stringsAll.zZportSortNameZA, 3},
+}
+zZportFiltTable = {
+	{1, stringsAll.zZportFiltName, 0},
+	{2, stringsAll.zZportFiltNoName, 1},
+	{3, stringsAll.zZportFiltEdit, 2},
+}
+
+
+
